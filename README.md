@@ -2,7 +2,4 @@
 
 holq
 hhg
-cvv
 
-jjj
-ty
