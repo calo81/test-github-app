@@ -3,5 +3,3 @@
 holq
 hhg
 lll
-lu
-gnn
